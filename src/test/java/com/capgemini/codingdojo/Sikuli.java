@@ -1,4 +1,4 @@
-package testDeTest;
+package com.capgemini.codingdojo;
 
 public class Sikuli {
 
