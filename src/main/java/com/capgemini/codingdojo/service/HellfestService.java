@@ -1,7 +1,7 @@
-package org.odcg.service;
+package com.capgemini.codingdojo.service;
 
-import org.odcg.domain.TicketData;
-import org.odcg.repository.HellfestTicketDataRepository;
+import com.capgemini.codingdojo.domain.TicketData;
+import com.capgemini.codingdojo.repository.HellfestTicketDataRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;

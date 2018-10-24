@@ -1,4 +1,4 @@
-package org.odcg.domain;
+package com.capgemini.codingdojo.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

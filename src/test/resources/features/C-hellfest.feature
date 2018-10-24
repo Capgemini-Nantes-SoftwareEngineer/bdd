@@ -1,4 +1,4 @@
-Feature: hellFest
+Feature: HellFest
 
   En tant que festocher et metalleu, je veux acheter un pass 3 jours Hellfest 2019 pour m'amuser.
 

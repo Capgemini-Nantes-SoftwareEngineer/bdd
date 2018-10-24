@@ -1,4 +1,4 @@
-package org.odcg.service;
+package com.capgemini.codingdojo.service;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

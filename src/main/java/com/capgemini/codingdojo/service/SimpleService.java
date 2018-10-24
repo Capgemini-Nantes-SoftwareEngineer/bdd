@@ -1,4 +1,4 @@
-package org.odcg.service;
+package com.capgemini.codingdojo.service;
 
 import org.springframework.stereotype.Component;
 

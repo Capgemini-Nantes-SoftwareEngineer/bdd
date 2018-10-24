@@ -1,5 +1,7 @@
-package org.odcg.features;
+package com.capgemini.codingdojo.features;
 
+import com.capgemini.codingdojo.CodingDojoBDDApplication;
+import com.capgemini.codingdojo.service.DivisionService;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -7,8 +9,6 @@ import cucumber.api.java.en.When;
 import cucumber.api.java.fr.Alors;
 import cucumber.api.java.fr.Etantdonné;
 import cucumber.api.java.fr.Lorsque;
-import org.odcg.CodingDojoBDDApplication;
-import org.odcg.service.DivisionService;
 import org.junit.Assert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;

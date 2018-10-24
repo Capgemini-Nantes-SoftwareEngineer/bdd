@@ -1,6 +1,6 @@
-package org.odcg.repository;
+package com.capgemini.codingdojo.repository;
 
-import org.odcg.domain.TicketData;
+import com.capgemini.codingdojo.domain.TicketData;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

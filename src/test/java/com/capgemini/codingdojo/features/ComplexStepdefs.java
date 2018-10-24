@@ -1,17 +1,15 @@
-package org.odcg.features;
+package com.capgemini.codingdojo.features;
 
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
-import org.junit.runner.RunWith;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
-import org.mockito.junit.MockitoJUnitRunner;
-import org.odcg.CodingDojoBDDApplication;
-import org.odcg.service.ComplexeService;
-import org.odcg.service.SimpleService;
+import com.capgemini.codingdojo.CodingDojoBDDApplication;
+import com.capgemini.codingdojo.service.ComplexeService;
+import com.capgemini.codingdojo.service.SimpleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 
