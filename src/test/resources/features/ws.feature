@@ -3,7 +3,7 @@ Feature: Addition
   Scenario Outline: addition, c est a tester
     Given first parameter <add1>
     And second parameter <add2>
-    When addition
+    When appel ws : pension retraite
     Then I should have <result>
 
     Examples:
